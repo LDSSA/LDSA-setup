@@ -60,13 +60,13 @@ brew install git
 **Step 5:** then run the following command:
 
 ```bash
-brew install python@3.7
+brew install python@3.8
 ```
 
 **Step 6:** then run the following command:
 
 ```bash
-brew link python@3.7
+brew link python@3.8
 ```
 
 <br>
