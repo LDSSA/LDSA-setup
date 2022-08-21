@@ -72,7 +72,7 @@ cp -r ~/projects/batch6-students/"S01 - Bootcamp and Binary Classification"/"SLU
 
 Make sure to use this type of quotes `"` and not these ones `“`.
 
-#### When setting up Python 3.8 I get an error
+#### When setting up Python 3.x I get an error
 
 When I run this command:
 
