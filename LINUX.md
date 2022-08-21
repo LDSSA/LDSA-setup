@@ -26,7 +26,7 @@ So you're using Ubuntu, hun? Well, kudos to you. You just need to install a coup
 python3.8 --version
 ```
 
-**Step 1.1:** Run the following commands to setup _Python 3.8_ (if you get an error with this command, check [this](#6-When-setting-up-python-3.7-i-get-an-error)
+**Step 1.1:** Run the following commands to setup _Python 3.8_ (if you get an error with this command, check [this](troubleshooting.md#when-setting-up-python-3x-i-get-an-error)
 ):
 
 ```bash
