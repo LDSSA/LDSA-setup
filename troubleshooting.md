@@ -5,7 +5,7 @@
 1. [When I pull from the `batch6-students` repository I get an error](#When-I-pull-from-the-batch6-students-repository-I-get-the-error)
 1. [When I try to open `jupyter notebook` I get an error](#When-I-try-to-open-jupyter-notebook-I-get-the-error)
 1. [When I use the `cp` command the `>` sign appears and the command does not execute](#When-I-use-the-`cp`-command-the->-sign-appears-and-the-command-does-not-execute)
-1. [When setting up Python 3.8 I get an error](#When-setting-up-python-3.7-i-get-an-error)
+1. [When setting up Python 3.x I get an error](#when-setting-up-python-3x-i-get-an-error)
 1. [Nothing happens when I type my password](#Nothing-happens-when-I-type-my-password)
 1. [I still have a NotImplemented error](#I-still-have-a-NotImplemented-error)
 1. [I get an error when creating the virtual environment](#I-get-an-error-when-creating-the-virtual-environment)

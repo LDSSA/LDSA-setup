@@ -41,7 +41,7 @@ sudo apt update && sudo apt upgrade && sudo apt install git
 ```bash
 python3.8 --version
 ```
-**Step 3.1:** Run the following commands to setup _Python 3.8_ (if you get an error with this command, check [this](troubleshooting.md#6-When-setting-up-python-3.x-i-get-an-error)
+**Step 3.1:** Run the following commands to setup _Python 3.8_ (if you get an error with this command, check [this](troubleshooting.md#when-setting-up-python-3x-i-get-an-error)
 ):
 
 ```bash
