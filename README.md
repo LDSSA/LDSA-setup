@@ -4,6 +4,8 @@ This repository contains all the information to set up the necessary environment
 
 ## Lisbon Data Science Starters Academy
 
+### Initial Setup
+
 Please choose your operating system (OS):
 
 <table>
@@ -26,4 +28,48 @@ Please choose your operating system (OS):
   </tr>
 </table>
 
+<br>
+
+### Setup for all Operating Systems
+
+<table>
+  <tr>
+    <td>
+        <a href="python-venv.md">
+            <img src="images/python-virtual-environments.png" alt="Python" />
+        </a>
+    </td>
+  </tr>
+</table>   
+
+### Setup _Git_ and _GitHub_
+
+<table>
+  <tr>
+    <td>
+        <a href="github.md">
+            <img src="images/github.png" alt="Github" />
+        </a>
+    </td>
+  </tr>
+</table>  
+
+
+### LDSSA Learning Units
+
+<a href="ldssa.md">
+    <img src="images/ldssa.png" alt="LDSSA" />
+</a>
+
+
+### Troubleshooting
+
+<a href="troubleshooting.md">
+    <img src="images/troubleshooting.png" alt="troubleshooting" />
+</a>
+
+
 ## Prep Course
+
+
+:warning: Under Construction :warning:
