@@ -57,16 +57,28 @@ Please choose your operating system (OS):
 
 ### LDSSA Learning Units
 
-<a href="ldssa.md">
-    <img src="images/ldssa.png" alt="LDSSA" />
-</a>
+<table>
+  <tr>
+    <td>
+        <a href="ldssa.md">
+            <img src="images/ldssa.png" alt="LDSSA" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 
 ### Troubleshooting
 
-<a href="troubleshooting.md">
-    <img src="images/troubleshooting.png" alt="troubleshooting" />
-</a>
+<table>
+  <tr>
+    <td>
+        <a href="troubleshooting.md">
+            <img src="images/troubleshooting.png" alt="troubleshooting" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Prep Course
