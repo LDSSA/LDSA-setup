@@ -278,7 +278,7 @@ We provide you with some different channels to ask for help.
 ### Learning Unit
 
 If you feel something is not clear enough or there is a bug in the learning
-material please follow [these steps](https://ldssa.github.io/wiki/Students/How-to-ask-for-and-give-help/). Remember, there is no such thing as a dumb question, and by asking questions publicly you will help others!
+material please follow [these steps](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/How-to-ask-for-and-give-help/). Remember, there is no such thing as a dumb question, and by asking questions publicly you will help others!
 
 If you have more conceptual questions about the materials or how to approach a problem you can also
 reach out to the instructors on slack.
