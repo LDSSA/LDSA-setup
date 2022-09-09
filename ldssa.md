@@ -138,7 +138,7 @@ git push
 ![Grade](assets/portal_grade.png "Grade")
 1. After grading is complete you should have 20/20
 1. If everything passes locally but the grader doesn't give you the excepted
-output head to out [troubleshooting](#_portal_)
+output head to out [troubleshooting](https://github.com/LDSSA/LDSA-setup/blob/main/troubleshooting.md)
 
 ## Learning Unit Workflow
 
