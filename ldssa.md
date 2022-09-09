@@ -148,8 +148,7 @@ Learning units will be announced in the academy's _#announcements_ channel.
 At this point they are available in the
 [batch6-students](https://github.com/LDSSA/batch6-students)
 repository.
-A new Learning Unit is released every Monday, and its
-solutions are then released the next Monday.
+A new Learning Unit is released every Monday.
 
 The steps you followed during the initial setup are exactly what you are going
 to be doing for each new Learning Unit.
