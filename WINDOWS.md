@@ -7,8 +7,8 @@ Your first step in this journey is to **carefully read** the steps in this tutor
 - :arrow_right: How to set up your environment;
 
 1. [Initial Setup](#initial-setup)
-    1. [Windows 10 Setup](#Windows-10-Setup)
-    1. [Windows 11 Setup](#Windows-11-Setup)
+    1. [Windows 10 and 11 Setup](#Windows-10-and-11-Setup)
+
     
 <br>
 
@@ -16,7 +16,7 @@ Your first step in this journey is to **carefully read** the steps in this tutor
 
 <br>
 
-### Windows 10 Setup
+### Windows 10 and 11 Setup
 
 This section deals with setting up **Windows Subsystem for Linux (WSL) on Windows 10**.
 
