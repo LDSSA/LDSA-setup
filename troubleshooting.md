@@ -112,7 +112,7 @@ I ran `python3.8 -m venv ~/.virtualenvs/slu00`, but got the following error:
 
 >The virtual environment was not created successfully because ensurepip is not available.
 
-This can happen if either you [skipped the installation of python-pip](#Setup-for-all-Operating-Systems), or the version of the python you're calling doesn't have python pip installed.
+This can happen if either you [skipped the installation of python-pip](https://github.com/LDSSA/LDSA-setup/blob/main/python-venv.md), or the version of the python you're calling doesn't have python pip installed.
 
 As we're using python3.8 for this academy, and if you've followed all the steps in this README correctly, you should be able to create the virtual environment with:
 
